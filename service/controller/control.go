@@ -4,8 +4,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/ilovecpc/XrayR/api"
-	"github.com/ilovecpc/XrayR/app/mydispatcher"
+	"github.com/kktzbk/XrayR-3/api"
+	"github.com/kktzbk/XrayR-3/app/mydispatcher"
 	"github.com/xtls/xray-core/common/protocol"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/features/inbound"
