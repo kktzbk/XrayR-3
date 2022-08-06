@@ -8,10 +8,10 @@ import (
 	"syscall"
 	"testing"
 
-	"github.com/ilovecpc/XrayR/api"
-	"github.com/ilovecpc/XrayR/api/sspanel"
-	_ "github.com/ilovecpc/XrayR/main/distro/all"
-	. "github.com/ilovecpc/XrayR/service/controller"
+	"github.com/kktzbk/XrayR-3/api"
+	"github.com/kktzbk/XrayR-3/api/sspanel"
+	_ "github.com/kktzbk/XrayR-3/main/distro/all"
+	. "github.com/kktzbk/XrayR-3/service/controller"
 	"github.com/xtls/xray-core/core"
 	"github.com/xtls/xray-core/infra/conf"
 )
