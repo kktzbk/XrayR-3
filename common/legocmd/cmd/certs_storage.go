@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ilovecpc/XrayR/common/legocmd/log"
+	"github.com/kktzbk/XrayR-3/common/legocmd/log"
 	"github.com/go-acme/lego/v4/certcrypto"
 	"github.com/go-acme/lego/v4/certificate"
 	"github.com/urfave/cli"
