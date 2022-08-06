@@ -64,7 +64,7 @@ A Xray backend framework that can easily support many panels.
 ### 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/ilovecpc/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontents.com/kktzbk/XrayR-script/master/install.sh && bash install.sh
 ```
 
 ### 使用Docker部署
@@ -102,7 +102,7 @@ systemctl enable docker
 
 #### 以Docker run方式安装Xray
 ```
-docker pull ilovecpc/xrayr:latest && docker run --restart=always --name xrayr -d -v ${PATH_TO_CONFIG}/config.yml:/etc/XrayR/config.yml --network=host ilovecpc/xrayr:latest
+docker pull kktzbk/XrayR-3:latest && docker run --restart=always --name xrayr -d -v ${PATH_TO_CONFIG}/config.yml:/etc/XrayR/config.yml --network=host kktzbk/XrayR-3:latest
 ```
 
 
