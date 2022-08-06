@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/ilovecpc/XrayR/api"
+	"github.com/kktzbk/XrayR/api"
 	"github.com/go-resty/resty/v2"
 )
 
